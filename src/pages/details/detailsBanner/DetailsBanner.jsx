@@ -7,7 +7,7 @@ import { useSelector } from 'react-redux';
 import dayjs from 'dayjs';
 import ContentWrapper from '../../../components/contentWrapper/ContentWrapper';
 import VideoPopup from '../../../components/videoPopup/VideoPopup';
-import { PlayIcon } from '../PlayBtn';
+import { PlayIcon } from '../Playbtn';
 import Genres from '../../../components/genres/Genres';
 import Img from '../../../components/lazyLoadImage/Img';
 import CircleRating from '../../../components/circleRating/CircleRating';
